@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lesson-15-custom-hook-hw/static/css/main.073c9b0a.css",
+    "main.js": "/lesson-15-custom-hook-hw/static/js/main.15e1caf8.js",
+    "index.html": "/lesson-15-custom-hook-hw/index.html",
+    "main.073c9b0a.css.map": "/lesson-15-custom-hook-hw/static/css/main.073c9b0a.css.map",
+    "main.15e1caf8.js.map": "/lesson-15-custom-hook-hw/static/js/main.15e1caf8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.15e1caf8.js"
+  ]
+}
